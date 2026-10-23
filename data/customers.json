@@ -1,0 +1,45 @@
+[
+    
+{
+"id":1,
+"name":"Hiba Dehmani",
+"city":"Essaouira",
+"active":true
+},
+
+{
+"id":2,
+"name":"Omar Berrada",
+"city":"Marrakech",
+"active":true
+},
+
+{
+"id":3,
+"name":"Lamia Rais",
+"city":"Rabat",
+"active":false
+},
+
+{
+"id":4,
+"name":"Rachid Benkdour",
+"city":"Agadir",
+"active":true
+},
+
+{
+"id":5,
+"name":"Khadija Elghalaoui",
+"city":"Rabat",
+"active":true
+},
+
+{
+"id":6,
+"name":"Ali Bennour",
+"city":"Marrakech",
+"active":false
+}
+
+]
